@@ -20,7 +20,6 @@
 #' @author Weiping Mei \email{meiweipingg@163.com}
 #' @seealso  \code{\link{trendline}}, \code{\link{SSexp3P}}, \code{\link{SSpower3P}}, \code{\link[stats]{nls}}, \code{\link[stats]{selfStart}}
 
-
 # selfStart method for power3P model (formula as y = a *x^b+ c)
 SSpower3P<-selfStart(
   function(predictor,a,b,c){a*predictor^b+c},

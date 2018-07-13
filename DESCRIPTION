@@ -1,6 +1,6 @@
 Package: basicTrendline
-Version: 1.0.1
-Date: 2018-01-09
+Version: 1.2.0
+Date: 2018-07-13
 Title: Add Trendline of Basic Regression Models to Plot
 Author: Weiping Mei, Guangchuang Yu, Jiangshan Lai, Qiang Rao and Yu Umezawa
 Maintainer: Weiping Mei <meiweipingg@163.com>
@@ -12,6 +12,6 @@ URL: https://github.com/PhDMeiwp/basicTrendline
 LazyData: true
 RoxygenNote: 6.0.1
 NeedsCompilation: no
-Packaged: 2018-01-09 08:44:25 UTC; Unitcom
+Packaged: 2018-07-13 02:12:03 UTC; Unitcom
 Repository: CRAN
-Date/Publication: 2018-01-09 11:15:52 UTC
+Date/Publication: 2018-07-13 04:10:03 UTC
